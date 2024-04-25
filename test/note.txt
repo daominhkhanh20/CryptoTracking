@@ -1,0 +1,6 @@
+https://platform.arkhamintelligence.com/explorer/token/ethereum/0x50327c6c5a14DCaDE707ABad2E27eB517df87AB5
+https://platform.arkhamintelligence.com/explorer/token/bsc/0x031b41e504677879370e9DBcF937283A8691Fa7f
+https://platform.arkhamintelligence.com/explorer/token/polygon/0x61299774020dA444Af134c82fa83E3810b309991
+https://platform.arkhamintelligence.com/explorer/token/arbitrum_one/0x912CE59144191C1204E64559FE8253a0e49E6548
+https://platform.arkhamintelligence.com/explorer/token/optimism/0x4200000000000000000000000000000000000042
+https://platform.arkhamintelligence.com/explorer/token/manta/0x95CeF13441Be50d20cA4558CC0a27B601aC544E5
